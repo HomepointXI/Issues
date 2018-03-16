@@ -14,6 +14,10 @@ Please do not remove or change any of the template data below. Instead, simply f
 
 
 
+**Discord Name (if different from in game):**
+
+
+
 **Nation:**
 
 
