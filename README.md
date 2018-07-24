@@ -23,3 +23,7 @@ If you are **100% certain** the bug is **not** something you will need GM help w
 When you open a new issue on this tracker, a template will automatically fill in the input field that you can submit information with. 
 
 Please **DO NOT** remove the template. Instead, simply fill it out like it's a survey/test. It is important that you follow the template otherwise your issue may be locked due to not following the rules. The template allows us to gather as much information as needed from you that you may not think of when reporting a bug.
+
+Click below to start the process of creating a new Server Issues ticket.
+
+https://github.com/HomepointXI/Issues/issues/new
