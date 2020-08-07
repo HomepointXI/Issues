@@ -6,8 +6,7 @@ Welcome to the HomepointXI server issue tracker. This is where we manage any bug
 
 If you have found an exploit or other major bug that can result in unfair advantages or similar, please **DO NOT** report them here. 
 
-Instead, exploits should be sent to an Admin or GM via a private message on our forums or Discord:<br/>
-Forums: [HomepointXI Forums GM List](http://www.homepointxi.com/forums/memberlist.php?mode=team) <br/>
+Instead, exploits should be sent to an Admin or GM via a private message on our Discord:<br/>
 Discord: [Homepoint XI Discord](https://discord.gg/aAAMAyK)
 
 
