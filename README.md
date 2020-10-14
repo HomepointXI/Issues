@@ -23,7 +23,7 @@ When you open a new issue on this tracker, a template will automatically fill in
 
 Please **DO NOT** remove the template. Instead, simply fill it out like it's a survey/test. It is **important** that you follow the template otherwise your issue may be locked due to not following the rules. The template allows us to gather as much information as needed from you that you may not think of when reporting a bug.
 
-Click below to start the process of creating a new Server Issues ticket. After you click the below link, click on the green New Issue buttom to bring up a new ticket template.
+Click below to start the process of creating a new Server Issues ticket. After you click the below link, click on the green New Issue button (in the upper-right corner of the wwebsite that the below link takes you to) to start up a new ticket template.
 
 https://github.com/HomepointXI/Issues/issues
 
