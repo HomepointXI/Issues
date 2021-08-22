@@ -10,12 +10,11 @@ Instead, exploits should be sent to an Admin or GM via a private message on our 
 Discord: [Homepoint XI Discord](https://discord.gg/aAAMAyK)
 
 
-### Project Topaz (aka "Topaz") which all servers are based on has its own separate tracker here: https://github.com/project-topaz/topaz/issues
+### All private servers are based off of a communal codebase and the codebase itself usually has its own issues tracker but
 ***When in doubt as to who to report your issue to, use **our** tracker and we will investigate/forward the issue to them if it is needed.***  
-You may occasionally be asked if you can report an issue to Topaz if staff is unavailable, but we try to do that ourselves.
-If you are **100% certain** the bug is **not** something you will need GM help with isn't specific to our custom content (an example is a Wonder NM) you can safely report the problem directly to them. 
+If you are **100% certain** the bug is **not** something you will need GM help with isn't specific to our custom content (an example is a Wonder NM) you can safely report the problem directly to them.
 
-**If the issue you would like to report concerns a Job Ability or Job Trait, do not report it here unless you are 100% certain it was already working. You can look up [every job on the wiki](http://wiki.HomepointXI.com/Category:Jobs) to see what works and what doesn't. Any ability or trait that doesn't yet exist is a Topaz problem, not a HomepointXI problem.**
+**If the issue you would like to report concerns a Job Ability or Job Trait, do not report it here unless you are 100% certain it was already working. You can look up [every job on the wiki](http://wiki.HomepointXI.com/Category:Jobs) to see what works and what doesn't. Any ability or trait that doesn't yet exist is a codebase problem, not necessarily a HomepointXI problem.**
 
 ## Issue Report Template
 
